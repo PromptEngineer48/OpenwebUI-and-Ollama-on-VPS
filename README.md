@@ -3,7 +3,7 @@
 This guide shows how to **manually install and connect Ollama with Open WebUI on a RunPod GPU instance** without using Docker templates.
 It is useful for developers and educators who want to **demonstrate how the LLM backend (Ollama) connects to a web interface (Open WebUI).**
 
-```
+
 # Single Block command
 ```
 apt-get update && apt-get upgrade -y
