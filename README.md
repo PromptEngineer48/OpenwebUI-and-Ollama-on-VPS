@@ -263,4 +263,8 @@ Local AI Models
 
 You now have your **own private ChatGPT-like server running on RunPod**.
 
+To see the logs, go to:
+tail -f webui.log
+tail -f ollama.log
+
 ---
